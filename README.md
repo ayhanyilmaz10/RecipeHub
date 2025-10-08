@@ -16,7 +16,7 @@ Bu proje, TheMealdb API kullanılarak hazırlanmış modern bir Yemek tarifi uyg
 
 ## 📄 Lisans
 
-MIT Lisansı ile lisanslanmıştır. Özgürce kullanabilir, düzenleyebilir ve paylaşabilirsiniz.
+MIT Lisansı ile lisanslanmıştır.
 
 ---
 
