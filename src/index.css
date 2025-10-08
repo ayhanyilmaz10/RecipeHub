@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "flowbite/src/themes/default";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
+
+@font-face {
+    font-family: "Athemi";
+    src: url('/fonts/Athemi-Demo-Version.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
